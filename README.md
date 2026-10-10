@@ -26,7 +26,7 @@ python score.py --predictions outputs/validation_predictions.csv \
 
 ## Approach
 
-Full write-up with figures: **[APPROACH.docx](APPROACH.docx)**.
+Full write-up with figures: **[APPROACH.pdf](APPROACH.pdf)**.
 
 In short:
 - Removed 1.4% of training loads whose prices were corrupted.
